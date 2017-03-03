@@ -1,14 +1,16 @@
-$main: #1a222c;
+$main: #496E97;
 $sec: #4B5664;
 $purple: #54516A;
 $cut: 768px;
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
+
+
 
 @-webkit-keyframes pulse {
     from {
