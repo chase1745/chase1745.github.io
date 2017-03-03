@@ -1,12 +1,13 @@
 # Site settings
-title: Chase McDermott's Website
-description: Welcome to Chase McDermott's personal website. 
+title: "Chase McDermott's Website"
+description: "Welcome to Chase McDermott's personal website." 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Chase McDermott
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: "Thanks for visiting my website! I am currently a Sophomore at Texas A&M, and am very excited and passionate about Software Engineering. I love to learn new things every single day. My best language currently is C++, and I have a few projects below that are written in C++. I also am familiar with Python and plan to learn Java soon as well. Check out my Resume above, or some of my projects below!"
+baseurl: ""
 user_title: "Sophomore Computer Science Student at Texas A&M"
 email: chase.mcdermott12@gmail.com
 twitter_username: bigc1745
