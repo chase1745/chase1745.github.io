@@ -1,6 +1,6 @@
 $main: #496E97;
-$sec: #4B5664;
-$purple: #54516A;
+$sec: #000000;
+$purple: #54596A;
 $cut: 768px;
 
 @import url('https://fonts.googleapis.com/css?family=Raleway');
@@ -136,9 +136,9 @@ body {
       background: #FFF;
     }
     @media only screen and (min-width:$cut) {
-      width: 35px;
-      height: 35px;
-      font-size: 35px;
+      width: 40px;
+      height: 40px;
+      font-size: 40px;
     }
   }
 }
