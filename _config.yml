@@ -16,6 +16,6 @@ gplus_username:  chase.mcdermott12
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-97580319-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
