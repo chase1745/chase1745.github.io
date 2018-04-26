@@ -6,9 +6,9 @@ url: "https://chase1745.github.io/" # the base hostname & protocol for your site
 
 # User settings
 username: Chase McDermott
-user_description: "Thanks for visiting my website! I am currently a Junior at Texas A&M, and am very excited and passionate about Software Engineering. I love to learn new things every single day. My best language currently is Python, and I have a few projects below that are written in it. I also am familiar with C++ and plan to learn Java soon as well. Check out my Resume above, or some of my projects below!"
+user_description: "Thanks for visiting my website! I am currently a Senior at Texas A&M, and am very excited and passionate about Software Engineering. I love programming in Python, and I have a few projects below that are written in it. I also am familiar with C++ and have done a good bit of web development in Ruby on Rails, as well as Node.JS, along with a Serverless application using Node.JS and AWS Lambda. Check out my Resume above, or some of my projects below!"
 baseurl: ""
-user_title: "Junior Computer Science Student at Texas A&M"
+user_title: "Computer Science Student at Texas A&M"
 email: chase.mcdermott12@gmail.com
 twitter_username: bigc1745
 github_username:  chase1745
