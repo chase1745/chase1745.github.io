@@ -279,3 +279,8 @@ body {
     color: red;
     transition: color .1s ease-in;
 }
+
+#header-img {
+  width: 100%;
+  z-index: 0;
+}
