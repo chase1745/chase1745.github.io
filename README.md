@@ -4,6 +4,8 @@
 
 This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
 
+Also added some Chkstong Yibbibi things.
+
 The Theme features:
 
 - Gulp
