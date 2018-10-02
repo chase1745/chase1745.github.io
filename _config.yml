@@ -16,6 +16,7 @@ gplus_username:  chase.mcdermott12
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Google-analytics
 google-analytics:
